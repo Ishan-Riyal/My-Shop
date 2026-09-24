@@ -50,8 +50,13 @@ const cartSlice = createSlice({
       return updateCart(state);
     },
 
-    resetCart: (state) => {
-      return initialState;
+    resetCart: () => {
+      localStorage.removeItem("cart");
+      return {
+        cartItems: [],
+        shippingAddress: {},
+        paymentMethod: "RazorPay",
+      };
     },
   },
 });
