@@ -25,13 +25,13 @@ These are demo accounts only. Please don't change their passwords or delete data
 
 ## 📸 Screenshots
 
-| Home                               | Product Details                          |
-| ---------------------------------- | ---------------------------------------- |
-| ![Home](docs/screenshots/home.png) | ![Product](docs/screenshots/product.png) |
+| Home                                 | Product Details                            |
+| ------------------------------------ | ------------------------------------------ |
+| ![Home](./docs/screenshots/home.png) | ![Product](./docs/screenshots/product.png) |
 
-| Checkout / Payment                         | Admin Dashboard                      |
-| ------------------------------------------ | ------------------------------------ |
-| ![Checkout](docs/screenshots/checkout.png) | ![Admin](docs/screenshots/admin.png) |
+| Checkout / Payment                           | Admin Dashboard                        |
+| -------------------------------------------- | -------------------------------------- |
+| ![Checkout](./docs/screenshots/checkout.png) | ![Admin](./docs/screenshots/admin.png) |
 
 ---
 
